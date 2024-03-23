@@ -23,7 +23,7 @@ fi
 DIRDIR=$(pwd)
 YSFREPO=https://github.com/g4klx/YSFClients.git
 YSFDASHREPO=https://github.com/dg9vh/YSFReflector-Dashboard.git
-DEP="wget git build-essential apache2 php libapache2-mod-php php7.0-mbstring"
+DEP="wget git build-essential apache2 php libapache2-mod-php php7.3-mbstring"
 YSFINSTDIR=/root/reflector-install-files/ysfreflector
 YSFAPPDIR=/ysfreflector
 YSFDASDIR=/root/reflector-install-files/ysfdash
